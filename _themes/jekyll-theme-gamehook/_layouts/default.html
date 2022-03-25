@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html data-theme="dark" lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+
+  <body>
+    <header class="container py-0">
+      <nav>
+        <ul>
+          <li><strong><a class="text-white" href="/">{{ site.title }}</a></strong></li>
+        </ul>
+        <ul>
+          <li><a href="{{ site.discord_invite_link }}">Discord</a></li>
+          <li><a href="{{ site.github_link }}">Github</a></li>
+        </ul>
+      </nav>
+    </header>
+  
+    <main class="container">
+      {{ content }}
+    </main>
+  </body>
+  
+  </html>
+
+</html>
