@@ -6,6 +6,9 @@ highlighter: rouge
 discord_invite_link: https://discord.gg/BXRetNZdkM
 github_link: https://github.com/gamehook-io/gamehook
 
+plugins:
+- jekyll-remote-theme
+
 remote_theme: gamehook-io/jekyll-theme-gamehook
 
 defaults:

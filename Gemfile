@@ -2,9 +2,9 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.2.2"
 
 # To upgrade, run `bundle update github-pages`.
-gem "github-pages"
-gem "jekyll-themes-control"
+gem "jekyll-remote-theme"
 gem "rouge"
+gem "github-pages"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
