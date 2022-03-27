@@ -1,8 +1,7 @@
 ---
 title: Scripting Support
+layout: subpage
 ---
-
-## Scripting Support
 
 GameHook exposes a REST API to interact with it.
 
@@ -105,8 +104,3 @@ More examples can be found on our Discord server.
         await setWildEncounters()
     })();
 ```
-
----
-
-#### Related Articles
-[Quickstart Guide](/quickstart)
