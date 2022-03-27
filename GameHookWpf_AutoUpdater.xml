@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2022.3.27.1</version>
-  <url>https://github.com/gamehook-io/gamehook/releases/download/2022.3.27.1/GameHook.exe</url>
+  <version>2022.3.27.2</version>
+  <url>https://github.com/gamehook-io/gamehook/releases/download/2022.3.27.2/GameHook-win-x64-2022.3.27.2-19538bcc.zip</url>
   <mandatory>false</mandatory>
-  <checksum algorithm="SHA512">597362eadb392e1f6a7d7d615fd7b9cf6c6bc9477915beb33b7a088c3aa1441cf8e1f2d4adb872d8d70b17db02da549dce89554f136b70c42c31cee5a93b82bc</checksum>
+  <checksum algorithm="SHA512">3597391e76d348f7f05cecdb33e3f3c9371e7750280b164211998a3c901abbc92c3f50210b963c4e5760072238ab3f3c0253b94ae29d803e336506e32b7dd09c</checksum>
 </item>
