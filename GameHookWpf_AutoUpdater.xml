@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>0.9.25</version>
+  <url>https://github.com/gamehook-io/gamehook/releases/download/0.9.25/GameHook.exe</url>
+  <mandatory>false</mandatory>
+  <checksum algorithm="SHA512">292958edcc39c77f6e3ff55b8c758593d4f32e0dac5eb7ec814955273d444c735db3a3d9185047f3dcfcd74a1f7475c84d4721b69b99c46aa4386dc41cf2dd55</checksum>
+</item>
