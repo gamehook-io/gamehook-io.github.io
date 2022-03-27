@@ -17,5 +17,5 @@ title: Documentation
 These [default settings](https://github.com/gamehook-io/gamehook/tree/main/src/GameHook.WebAPI/appsettings.json) can be overwritten by creating a json file called `appsettings.user.json` in the same folder as your GameHook executable.
 
 ### Sub-Pages
-- [Scripting Support](./scripting/)
-- [Mappers Support](./mappers/)
+- [Scripting Support](./scripting)
+- [Mappers Support](./mappers)
