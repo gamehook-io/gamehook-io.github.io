@@ -19,3 +19,4 @@ These [default settings](https://github.com/gamehook-io/gamehook/tree/main/src/G
 ### Sub-Pages
 - [Scripting Support](./scripting)
 - [Mappers Support](./mappers)
+- [RetroArch](./retroarch)

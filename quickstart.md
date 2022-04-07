@@ -5,7 +5,7 @@ title: Quickstart Guide
 ## Quickstart Guide
 
 ### Prerequsites
-1. [RetroArch](https://retroarch.com/) (with [UDP Commands](https://docs.libretro.com/development/retroarch/network-control-interface/) enabled)
+1. [RetroArch](https://retroarch.com/) (with [UDP Commands](https://docs.libretro.com/development/retroarch/network-control-interface/) enabled and a [compatible core](/docs/retroarch))
 
 ### Installing GameHook
 1. Download the latest version of GameHook [here](https://github.com/gamehook-io/gamehook/releases/latest/download/GameHook.exe).
